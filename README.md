@@ -1,2 +1,2 @@
 # sodsol
-Temporary repo for soduku solver
+Temporary repo for sudoku solver
